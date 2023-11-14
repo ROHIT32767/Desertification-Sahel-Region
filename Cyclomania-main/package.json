@@ -21,6 +21,7 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.2",
     "parcel": "^2.0.1",
+    "parcel-bundler": "^1.12.5",
     "prettier": "^2.4.1"
   },
   "dependencies": {
