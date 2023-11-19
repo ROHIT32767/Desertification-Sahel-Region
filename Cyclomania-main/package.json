@@ -29,6 +29,7 @@
     "jquery": "^3.6.0",
     "parcel-bundler": "^1.12.5",
     "popper.js": "^1.16.1",
+    "serve": "^14.2.1",
     "vanilla-tilt": "^1.7.2",
     "zoom-vanilla.js": "^2.0.6"
   }
